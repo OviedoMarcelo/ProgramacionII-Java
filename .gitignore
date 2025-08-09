@@ -22,3 +22,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/TP 1/HolaMundo/nbproject/private/
+/TP 1/programa3-imprimir/nbproject/private/
+/TP 1/programa3-imprimir/build/
+/TP 1/calcularEdadUsuario/nbproject/private/
+/TP 1/MostrarMensajeConEscape/nbproject/private/
+/TP 1/OperacionesMatematicas/nbproject/private/
+/TP 1/solicitarDatosAlUsuario/nbproject/private/
