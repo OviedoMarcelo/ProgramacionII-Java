@@ -40,7 +40,7 @@ public class CalcularPrecioImpPrecio {
         impuesto = input.nextInt();
         System.out.print("Ingrese el descuento en porcentaje (Ejemplo: 5 para 5%): ");
         descuento = input.nextInt();
-        System.out.println("El precio final del producto es: "+calcularPrecioFinal(impuesto, descuento));
+        System.out.printf("El precio final del producto es: %.2f%n ",calcularPrecioFinal(impuesto, descuento));
     }
 
     public static double calcularPrecioFinal(double impuesto, double descuento) {
