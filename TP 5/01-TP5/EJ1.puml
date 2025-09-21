@@ -1,0 +1,9 @@
+@startuml
+annotation java.lang.Override
+class Foto
+class Pasaporte
+class Titular
+Foto ..> java.lang.Override
+Pasaporte ..> java.lang.Override
+Titular ..> java.lang.Override
+@enduml
